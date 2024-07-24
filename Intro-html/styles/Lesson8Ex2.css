@@ -1,0 +1,90 @@
+.first-box,
+    .sec-box
+    {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      border-width: 1px;
+      margin-left: 4px;
+      border-style: solid;
+      border-color: rgb(200, 200, 200);
+      font-size: 16px;
+      border-radius: 4px;
+      width: 150px;
+      margin-bottom: 12px;
+    }
+
+    .third-box
+    {
+      display: block;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      margin-left: 4px;
+      border-width: 1px;
+      margin-bottom: 12px;
+      border-style: solid;
+      border-color: rgb(200, 200, 200);
+      border-radius: 4px;
+      font-size: 16px;
+      width: 313px;
+    }
+
+    .signup-button
+    {
+      background-color: rgb(47, 127, 231);
+      border: none;
+      color: white;
+      font-size: 16px;
+      font-weight: bold;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 130px;
+      padding-right: 130px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    .pic-box,
+    .dest-box
+    {
+      display: block;
+      margin-bottom: 12px;
+      border-radius: 1px;
+      border: none;
+      background-color: rgb(240, 240, 240);
+      padding-top: 15px;
+      padding-bottom: 15px;
+      width: 300px;
+      font-size: 16px;
+    }
+
+    .dest-box
+    {
+      margin-bottom: 40px;
+    }
+
+    .req-button
+    {
+      background-color: black;
+      color: white;
+      border: none;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 25px;
+      padding-right: 25px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+      margin-right: 2px;
+      font-size: 15px;
+    }
+
+    .Schedule-button
+    {
+      background-color: rgb(240, 240, 240);
+      border: none;
+      font-size: 15px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 25px;
+      padding-right: 25px;
+      cursor: pointer;
+    }
